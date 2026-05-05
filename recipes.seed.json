@@ -1,0 +1,94 @@
+backend/recipes_seed.json
+Contents:
+[
+{
+"id": 1,
+"title": "Honey-Garlic Chicken Stir-Fry",
+"main_protein": "chicken",
+"total_time_mins": 35,
+"kid_friendly_score": 0.9,
+"ingredients": ["chicken", "broccoli", "bell pepper", "soy sauce", "honey", "garlic", "rice"],
+"instructions_url": ""
+},
+{
+"id": 2,
+"title": "Taco Bowls (build-your-own)",
+"main_protein": "ground_beef",
+"total_time_mins": 30,
+"kid_friendly_score": 0.95,
+"ingredients": ["ground beef", "taco seasoning", "rice", "black beans", "cheese", "tomato", "lettuce"],
+"instructions_url": ""
+},
+{
+"id": 3,
+"title": "Baked Lemon-Panko Cod",
+"main_protein": "fish",
+"total_time_mins": 35,
+"kid_friendly_score": 0.85,
+"ingredients": ["cod", "panko", "lemon", "butter", "sweet potato", "peas"],
+"instructions_url": ""
+},
+{
+"id": 4,
+"title": "One-Pan Creamy Tomato Chicken Pasta (with hidden spinach)",
+"main_protein": "chicken",
+"total_time_mins": 40,
+"kid_friendly_score": 0.9,
+"ingredients": ["chicken", "pasta", "tomato sauce", "spinach", "cream", "cheese"],
+"instructions_url": ""
+},
+{
+"id": 5,
+"title": "Sloppy Joe Sliders",
+"main_protein": "ground_beef",
+"total_time_mins": 30,
+"kid_friendly_score": 0.9,
+"ingredients": ["ground beef", "tomato sauce", "brown sugar", "buns", "carrots"],
+"instructions_url": ""
+},
+{
+"id": 6,
+"title": "Garlic Butter Shrimp Tacos",
+"main_protein": "shrimp",
+"total_time_mins": 25,
+"kid_friendly_score": 0.9,
+"ingredients": ["shrimp", "garlic", "butter", "tortillas", "cabbage", "lime"],
+"instructions_url": ""
+},
+{
+"id": 7,
+"title": "Veggie-Packed Quesadillas",
+"main_protein": "vegetarian",
+"total_time_mins": 25,
+"kid_friendly_score": 0.9,
+"ingredients": ["tortillas", "cheese", "bell pepper", "corn", "spinach", "avocado"],
+"instructions_url": ""
+},
+{
+"id": 8,
+"title": "Quick Chicken Noodle Soup",
+"main_protein": "chicken",
+"total_time_mins": 30,
+"kid_friendly_score": 0.88,
+"ingredients": ["chicken", "carrots", "celery", "noodles", "broth"],
+"instructions_url": ""
+},
+{
+"id": 9,
+"title": "Beef and Veggie Skillet",
+"main_protein": "ground_beef",
+"total_time_mins": 35,
+"kid_friendly_score": 0.8,
+"ingredients": ["ground beef", "zucchini", "tomatoes", "paprika", "rice"],
+"instructions_url": ""
+},
+{
+"id": 10,
+"title": "Pan-Seared Salmon with Rice",
+"main_protein": "fish",
+"total_time_mins": 30,
+"kid_friendly_score": 0.86,
+"ingredients": ["salmon", "rice", "broccoli", "lemon"],
+"instructions_url": ""
+}
+]
