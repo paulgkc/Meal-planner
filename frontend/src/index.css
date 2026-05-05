@@ -1,0 +1,5 @@
+frontend/src/index.css
+Contents:
+body { font-family: Arial, sans-serif; padding: 10px; background: #f7f7f7; }
+.form input { width: 100%; padding: 6px; margin-top:4px; margin-bottom:8px; }
+button { padding: 8px 12px; cursor: pointer; }
