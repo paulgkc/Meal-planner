@@ -1,0 +1,6 @@
+backend/requirements.txt
+Contents:
+fastapi
+uvicorn
+pydantic
+python-multipart
